@@ -53,4 +53,4 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/AymaanPathan/Devin_Vogue.git
-   cd devin-vogue
+   ````bash
