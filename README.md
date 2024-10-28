@@ -52,5 +52,5 @@ Make sure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/devin-vogue.git
+   git clone https://github.com/AymaanPathan/Devin_Vogue.git
    cd devin-vogue
