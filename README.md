@@ -6,7 +6,6 @@
 ---
 
 ## Table of Contents
-- <a href="#images">Images</a>
 - <a href="#features">Features</a>
 - <a href="#tech-stack">Tech Stack</a>
 - <a href="#installation">Installation</a>
@@ -14,9 +13,6 @@
 - <a href="#project-structure">Project Structure</a>
 - <a href="#contact">Contact</a>
 
----
-
-<h2 id="images">Images</h2>
 
 
 ---
